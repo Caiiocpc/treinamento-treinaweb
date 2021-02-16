@@ -1,2 +1,2 @@
 print('Olá Mundo')
-print('Usando o git')
+print('Enviando para o GitHub')
